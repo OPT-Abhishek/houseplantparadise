@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Cooper BT";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//houseplantparadise.shop/cdn/fonts/cooper_bt/cooperbt_n5.ebd9fe985f6ad9f0fb6f1b5c153ca1db17748d07.woff2?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=a156f5e961cbe9fd078ac916f7461a386637f7c6b13597459d6021f7f2bebe6c") format("woff2"),
+       url("//houseplantparadise.shop/cdn/fonts/cooper_bt/cooperbt_n5.d0f06f4cded7ebb533ef0f758af604e5f1a28f9a.woff?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=23e14b388caaabeed9f01cb432771f04a899540f959d430337fb08c7e4b41fba") format("woff");
+}
+
+  @font-face {
+  font-family: Archivo;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_n4.abb5ec97705c33fe369ef678fc93b9cf87658330.woff2?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=e85e9976f1622793746a44141e94b11188be4dce67b989c868600fa545468bdc") format("woff2"),
+       url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_n4.0ae8e008abb455fbd654c11c5b30dc47b6849133.woff?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=d994841594e21cb23814e0d945c528573b7e3c3ac9121260114973b4f145d53e") format("woff");
+}
+
+  @font-face {
+  font-family: Archivo;
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_n6.1c7c5a103e7ce5904146bdc8185bb04724ca217a.woff2?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=83b6cb5aa2c07d27eed8798ff4218ae4e700cc75c96242ce3d7c6b7d63c0991e") format("woff2"),
+       url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_n6.73bf910681d1d187dcf6155c4f8a2c6fe79ac7be.woff?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=f4d7850c1ecbbd58ee70d321e46f972cffd711fdd176a49e3d32f1c4bba1abda") format("woff");
+}
+
+  @font-face {
+  font-family: Archivo;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_i4.a95feba2fc444cfedf1a05723e49fbee7d12512b.woff2?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=2250a499520fef2307cb1a481eaac094ddc5e8c895df028f0ad147eb8af3a1c0") format("woff2"),
+       url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_i4.9734cbbe4db53e64fe62bb6fe5f4ef00f6bc0c85.woff?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=cecf8160bf6c4912982f4de4dfd11931799f6e70106ed775abca146771a79a4e") format("woff");
+}
+
+  @font-face {
+  font-family: Archivo;
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_i6.243682eac95afbeca7583f60c388b9a35a735280.woff2?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=5e28f3078ae8f552f19a084d68a298138369e43a41b8bee351c335d858bf8830") format("woff2"),
+       url("//houseplantparadise.shop/cdn/fonts/archivo/archivo_i6.502cd191c9502df39e7033e0cdf815ae5008ab20.woff?h1=aG91c2VwbGFudHBhcmFkaXNlLmNvbQ&h2=ZXNzZW50aWFsc2Zvcmd1eXMuYWNjb3VudC5teXNob3BpZnkuY29t&h3=aG91c2VwbGFudHBhcmFkaXNlLmNv&h4=aG91c2VwbGFudHBhcmFkaXNlLm15c2hvcGlmeS5jb20&h5=aG91c2VwbGFudHBhcmFkaXNlLnNob3A&hmac=84805ecf6f35846d662f486aec63a864dd89a44c84b6d39ca38cc74bf44fb524") format("woff");
+}
+

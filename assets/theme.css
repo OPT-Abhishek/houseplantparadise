@@ -2060,7 +2060,7 @@ input[type=image]{
      -moz-appearance:none;
           appearance:none;
   background-position:100%;
-  background-image:url(//houseplantparadise.shop/cdn/shop/t/19/assets/ico-select.svg);
+  background-image:url(//houseplantparadise.shop/cdn/shop/t/22/assets/ico-select.svg);
   background-repeat:no-repeat;
   background-position:right 10px center;
   background-color:transparent;
@@ -2073,7 +2073,7 @@ input[type=image]{
 }
 
 .is-light .faux-select,.is-light select{
-    background-image:url(//houseplantparadise.shop/cdn/shop/t/19/assets/ico-select-white.svg)
+    background-image:url(//houseplantparadise.shop/cdn/shop/t/22/assets/ico-select-white.svg)
 }
 
 optgroup{
@@ -3418,7 +3418,7 @@ form+.footer__social{
     }
 
 .site-footer .faux-select,.site-footer select{
-    background-image:url(//houseplantparadise.shop/cdn/shop/t/19/assets/ico-select-footer.svg);
+    background-image:url(//houseplantparadise.shop/cdn/shop/t/22/assets/ico-select-footer.svg);
   }
 
 [data-center-text=true] .payment-icons{

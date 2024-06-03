@@ -158,7 +158,7 @@
                     <div
                       class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.image != blank %} lazyload{% else %} hero__image--svg{% endif %}{% if has_mobile_image %} small--hide{% endif %}"
                       {% if block.settings.image != blank %}
-                        data-bgset="{% render 'bgset', image: block.settings.image %}"
+                        style="background-image:url({{ block.settings.image | img_url: '2048x' }})"
                         data-sizes="auto"
                       {% endif %}>
                       {%- if block.settings.image == blank -%}
@@ -167,8 +167,8 @@
                     </div>
                     {%- if has_mobile_image -%}
                       <div
-                        class="parallax-image hero__image hero__image--{{ block.id }} lazyload medium-up--hide"
-                        data-bgset="{% render 'bgset', image: block.settings.image_mobile %}"
+                        class="parallax-image hero__image hero__image--{{ block.id }} lazyloaded medium-up--hide"
+                        style="background-image:url({{ block.settings.image_mobile | img_url: '480x' }})"
                         data-sizes="auto">
                       </div>
                     {%- endif -%}

@@ -212,7 +212,7 @@
           <div class="product-single__description rte">
             {%- if section.settings.show_description -%}
               {%- unless product.empty? -%}
-                {{ product.description }}
+                {{ product.description | replace: '<img alt="" src="', '<img alt="" data-class="LazyLoad" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" data-src="' }}
               {%- else -%}
                 {{ 'home_page.onboarding.product_description' | t }}
               {%- endunless -%}
